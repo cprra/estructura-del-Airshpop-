@@ -1,0 +1,15 @@
+body{
+    background-color: gray ;
+}
+nav{
+    background-color:  #fafafa;
+    width: 100vw;
+    position:fixed;
+    text-align: center;
+    display: flex;
+    
+}
+button{
+margin-bottom: auto;
+padding: 100px;
+}
